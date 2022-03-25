@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cinema/static/css/main.c32f3742.css",
+    "main.js": "/cinema/static/js/main.332d6f12.js",
+    "static/js/787.fa79b8c8.chunk.js": "/cinema/static/js/787.fa79b8c8.chunk.js",
+    "static/media/logo.svg": "/cinema/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cinema/index.html",
+    "static/media/search.svg": "/cinema/static/media/search.85548e4d6d235088a0d3892fed2b6f29.svg",
+    "main.c32f3742.css.map": "/cinema/static/css/main.c32f3742.css.map",
+    "main.332d6f12.js.map": "/cinema/static/js/main.332d6f12.js.map",
+    "787.fa79b8c8.chunk.js.map": "/cinema/static/js/787.fa79b8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32f3742.css",
+    "static/js/main.332d6f12.js"
+  ]
+}
